@@ -48,7 +48,18 @@ Delete Node :
 curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/uninstall.sh' | bash
 ```
 
+# FOR USE BOT :
+
+- EDIT FILE IN : account.txt FORMATS :
+
+APIKEY|DOMAIN
+
+EXAMPLE :
+
+gaia-akwokow1921oaksdoaks|https://llama.gaia.domains/v1/chat/completions
 
 # DONT FORGET JOIN CHANNEL :
 [TELEGRAM](https://t.me/SHAREITHUB_COM)
 [YOUTUBE](https://www.youtube.com/channel/UCUvH2S-T6T_hc7DjxhVd28A/)
+
+
