@@ -1,2 +1,2 @@
-APIKEY GAIANET
-API URL
+apikey|domain
+apikey|domain
