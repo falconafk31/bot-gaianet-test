@@ -1,2 +1,1 @@
-apikey|domain
-apikey|domain
+gaia-OTk4YmQ2NmItOGNhMy00ZWE5LWFmZTgtM2ZiYjJhNmQ2YzEx-HmrwtfzOI5d_aLs9|https://vortex.gaia.domains/v1/chat/completions
