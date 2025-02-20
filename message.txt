@@ -1,1 +1,573 @@
-paste your message here
+Do you like reading?
+Have you ever traveled abroad?
+What is your dream job?
+What do you do in your free time?
+Can you cook?
+What languages do you speak?
+How often do you exercise?
+Do you like chocolate?
+What is your favorite season?
+Do you have a car?
+What kind of music do you like?
+What time do you go to bed?
+Do you like cats or dogs?
+What is your favorite holiday?
+Have you ever seen snow?
+What is your favorite TV show?
+Can you ride a bike?
+Do you like traveling?
+What is your favorite drink?
+Where do you want to go on vacation?
+What is your favorite subject in school?
+Are you afraid of heights?
+Do you have a best friend?
+What is your favorite dessert?
+What do you usually eat for breakfast?
+Do you like watching movies?
+Can you sing?
+What is your favorite flower?
+Do you play any sports?
+What is your favorite city?
+How often do you go shopping?
+What is your favorite animal?
+Do you like swimming?
+What is your favorite fruit?
+Can you play chess?
+What time do you finish work?
+Do you like cooking?
+What is your favorite beach?
+Have you ever gone camping?
+Do you like ice cream?
+What is your favorite restaurant?
+Do you like history?
+What is your favorite song?
+Do you have a bicycle?
+Can you dance?
+What is your favorite fast food?
+Do you like rain?
+Have you ever been to the zoo?
+What is your favorite cartoon?
+Do you like hiking?
+Can you play the piano?
+What is your favorite car brand?
+Do you like to draw?
+What is your favorite app?
+Can you whistle?
+Do you like sushi?
+What is your favorite game?
+Have you ever flown in an airplane?
+What is your favorite shop?
+Do you like going to the gym?
+What is your favorite drink in the morning?
+Have you ever seen a sunrise?
+What is your favorite snack?
+Do you like tea?
+Can you run fast?
+What is your favorite pizza topping?
+Do you like puzzles?
+What is your favorite ice cream flavor?
+Can you play basketball?
+What is your favorite holiday destination?
+Do you like reading magazines?
+What is your favorite park?
+Can you speak another language?
+What is your name?
+Where are you from?
+How old are you?
+What is your favorite color?
+Do you like coffee?
+What time is it?
+Can you swim?
+Where do you live?
+What do you do for a living?
+Are you a student?
+Do you have a pet?
+What is your favorite food?
+Do you like music?
+Can you play the guitar?
+What day is today?
+Do you speak English?
+What is your favorite movie?
+Where is the nearest bank?
+What is your phone number?
+Can you drive a car?
+What is your favorite book?
+Do you have any siblings?
+What is your favorite sport?
+Are you married?
+What time do you wake up?
+How do you get to work?
+What is the weather like today?
+Do you like reading?
+Have you ever traveled abroad?
+What is your dream job?
+What do you do in your free time?
+Can you cook?
+What languages do you speak?
+How often do you exercise?
+Do you like chocolate?
+What is your favorite season?
+Do you have a car?
+What kind of music do you like?
+What time do you go to bed?
+Do you like cats or dogs?
+What is your favorite holiday?
+Have you ever seen snow?
+What is your favorite TV show?
+Can you ride a bike?
+Do you like traveling?
+What is your favorite drink?
+Where do you want to go on vacation?
+What is your favorite subject in school?
+Are you afraid of heights?
+Do you have a best friend?
+What is your favorite dessert?
+What do you usually eat for breakfast?
+Do you like watching movies?
+Can you sing?
+What is your favorite flower?
+Do you play any sports?
+What is your favorite city?
+How often do you go shopping?
+What is your favorite animal?
+Do you like swimming?
+What is your favorite fruit?
+Can you play chess?
+What time do you finish work?
+Do you like cooking?
+What is your favorite beach?
+Have you ever gone camping?
+Do you like ice cream?
+What is your favorite restaurant?
+Do you like history?
+What is your favorite song?
+Do you have a bicycle?
+Can you dance?
+What is your favorite fast food?
+Do you like rain?
+Have you ever been to the zoo?
+What is your favorite cartoon?
+Do you like hiking?
+Can you play the piano?
+What is your favorite car brand?
+Do you like to draw?
+What is your favorite app?
+Can you whistle?
+Do you like sushi?
+What is your favorite game?
+Have you ever flown in an airplane?
+What is your favorite shop?
+Do you like going to the gym?
+What is your favorite drink in the morning?
+Have you ever seen a sunrise?
+What is your favorite snack?
+Do you like tea?
+Can you run fast?
+What is your favorite pizza topping?
+Do you like puzzles?
+What is your favorite ice cream flavor?
+Can you play basketball?
+What is your favorite holiday destination?
+Do you like reading magazines?
+What is your favorite park?
+Can you speak another language?
+What is your name?
+Where are you from?
+How old are you?
+What is your favorite color?
+Do you like coffee?
+What time is it?
+Can you swim?
+Where do you live?
+What do you do for a living?
+Are you a student?
+Do you have a pet?
+What is your favorite food?
+Do you like music?
+Can you play the guitar?
+What day is today?
+Do you speak English?
+What is your favorite movie?
+Where is the nearest bank?
+What is your phone number?
+Can you drive a car?
+What is your favorite book?
+Do you have any siblings?
+What is your favorite sport?
+Are you married?
+What time do you wake up?
+How do you get to work?
+What is the weather like today?
+Do you like reading?
+Have you ever traveled abroad?
+What is your dream job?
+What do you do in your free time?
+Can you cook?
+What languages do you speak?
+How often do you exercise?
+Do you like chocolate?
+What is your favorite season?
+Do you have a car?
+What kind of music do you like?
+What time do you go to bed?
+Do you like cats or dogs?
+What is your favorite holiday?
+Have you ever seen snow?
+What is your favorite TV show?
+Can you ride a bike?
+Do you like traveling?
+What is your favorite drink?
+Where do you want to go on vacation?
+What is your favorite subject in school?
+Are you afraid of heights?
+Do you have a best friend?
+What is your favorite dessert?
+What do you usually eat for breakfast?
+Do you like watching movies?
+Can you sing?
+What is your favorite flower?
+Do you play any sports?
+What is your favorite city?
+How often do you go shopping?
+What is your favorite animal?
+Do you like swimming?
+What is your favorite fruit?
+Can you play chess?
+What time do you finish work?
+Do you like cooking?
+What is your favorite beach?
+Have you ever gone camping?
+Do you like ice cream?
+What is your favorite restaurant?
+Do you like history?
+What is your favorite song?
+Do you have a bicycle?
+Can you dance?
+What is your favorite fast food?
+Do you like rain?
+Have you ever been to the zoo?
+What is your favorite cartoon?
+Do you like hiking?
+Can you play the piano?
+What is your favorite car brand?
+Do you like to draw?
+What is your favorite app?
+Can you whistle?
+Do you like sushi?
+What is your favorite game?
+Have you ever flown in an airplane?
+What is your favorite shop?
+Do you like going to the gym?
+What is your favorite drink in the morning?
+Have you ever seen a sunrise?
+What is your favorite snack?
+Do you like tea?
+Can you run fast?
+What is your favorite pizza topping?
+Do you like puzzles?
+What is your favorite ice cream flavor?
+Can you play basketball?
+What is your favorite holiday destination?
+Do you like reading magazines?
+What is your favorite park?
+Can you speak another language?
+What is your name?
+Where are you from?
+How old are you?
+What is your favorite color?
+Do you like coffee?
+What time is it?
+Can you swim?
+Where do you live?
+What do you do for a living?
+Are you a student?
+Do you have a pet?
+What is your favorite food?
+Do you like music?
+Can you play the guitar?
+What day is today?
+Do you speak English?
+What is your favorite movie?
+Where is the nearest bank?
+What is your phone number?
+Can you drive a car?
+What is your favorite book?
+Do you have any siblings?
+What is your favorite sport?
+Are you married?
+What time do you wake up?
+How do you get to work?
+What is the weather like today?
+Do you like reading?
+Have you ever traveled abroad?
+What is your dream job?
+What do you do in your free time?
+Can you cook?
+What languages do you speak?
+How often do you exercise?
+Do you like chocolate?
+What is your favorite season?
+Do you have a car?
+What kind of music do you like?
+What time do you go to bed?
+Do you like cats or dogs?
+What is your favorite holiday?
+Have you ever seen snow?
+What is your favorite TV show?
+Can you ride a bike?
+Do you like traveling?
+What is your favorite drink?
+Where do you want to go on vacation?
+What is your favorite subject in school?
+Are you afraid of heights?
+Do you have a best friend?
+What is your favorite dessert?
+What do you usually eat for breakfast?
+Do you like watching movies?
+Can you sing?
+What is your favorite flower?
+Do you play any sports?
+What is your favorite city?
+How often do you go shopping?
+What is your favorite animal?
+Do you like swimming?
+What is your favorite fruit?
+Can you play chess?
+What time do you finish work?
+Do you like cooking?
+What is your favorite beach?
+Have you ever gone camping?
+Do you like ice cream?
+What is your favorite restaurant?
+Do you like history?
+What is your favorite song?
+Do you have a bicycle?
+Can you dance?
+What is your favorite fast food?
+Do you like rain?
+Have you ever been to the zoo?
+What is your favorite cartoon?
+Do you like hiking?
+Can you play the piano?
+What is your favorite car brand?
+Do you like to draw?
+What is your favorite app?
+Can you whistle?
+Do you like sushi?
+What is your favorite game?
+Have you ever flown in an airplane?
+What is your favorite shop?
+Do you like going to the gym?
+What is your favorite drink in the morning?
+Have you ever seen a sunrise?
+What is your favorite snack?
+Do you like tea?
+Can you run fast?
+What is your favorite pizza topping?
+Do you like puzzles?
+What is your favorite ice cream flavor?
+Can you play basketball?
+What is your favorite holiday destination?
+Do you like reading magazines?
+What is your favorite park?
+Can you speak another language?
+What is your name?
+Where are you from?
+How old are you?
+What is your favorite color?
+Do you like coffee?
+What time is it?
+Can you swim?
+Where do you live?
+What do you do for a living?
+Are you a student?
+Do you have a pet?
+What is your favorite food?
+Do you like music?
+Can you play the guitar?
+What day is today?
+Do you speak English?
+What is your favorite movie?
+Where is the nearest bank?
+What is your phone number?
+Can you drive a car?
+What is your favorite book?
+Do you have any siblings?
+What is your favorite sport?
+Are you married?
+What time do you wake up?
+How do you get to work?
+What is the weather like today?
+Do you like reading?
+Have you ever traveled abroad?
+What is your dream job?
+What do you do in your free time?
+Can you cook?
+What languages do you speak?
+How often do you exercise?
+Do you like chocolate?
+What is your favorite season?
+Do you have a car?
+What kind of music do you like?
+What time do you go to bed?
+Do you like cats or dogs?
+What is your favorite holiday?
+Have you ever seen snow?
+What is your favorite TV show?
+Can you ride a bike?
+Do you like traveling?
+What is your favorite drink?
+Where do you want to go on vacation?
+What is your favorite subject in school?
+Are you afraid of heights?
+Do you have a best friend?
+What is your favorite dessert?
+What do you usually eat for breakfast?
+Do you like watching movies?
+Can you sing?
+What is your favorite flower?
+Do you play any sports?
+What is your favorite city?
+How often do you go shopping?
+What is your favorite animal?
+Do you like swimming?
+What is your favorite fruit?
+Can you play chess?
+What time do you finish work?
+Do you like cooking?
+What is your favorite beach?
+Have you ever gone camping?
+Do you like ice cream?
+What is your favorite restaurant?
+Do you like history?
+What is your favorite song?
+Do you have a bicycle?
+Can you dance?
+What is your favorite fast food?
+Do you like rain?
+Have you ever been to the zoo?
+What is your favorite cartoon?
+Do you like hiking?
+Can you play the piano?
+What is your favorite car brand?
+Do you like to draw?
+What is your favorite app?
+Can you whistle?
+Do you like sushi?
+What is your favorite game?
+Have you ever flown in an airplane?
+What is your favorite shop?
+Do you like going to the gym?
+What is your favorite drink in the morning?
+Have you ever seen a sunrise?
+What is your favorite snack?
+Do you like tea?
+Can you run fast?
+What is your favorite pizza topping?
+Do you like puzzles?
+What is your favorite ice cream flavor?
+Can you play basketball?
+What is your favorite holiday destination?
+Do you like reading magazines?
+What is your favorite park?
+Can you speak another language?
+What is your name?
+Where are you from?
+How old are you?
+What is your favorite color?
+Do you like coffee?
+What time is it?
+Can you swim?
+Where do you live?
+What do you do for a living?
+Are you a student?
+Do you have a pet?
+What is your favorite food?
+Do you like music?
+Can you play the guitar?
+What day is today?
+Do you speak English?
+What is your favorite movie?
+Where is the nearest bank?
+What is your phone number?
+Can you drive a car?
+What is your favorite book?
+Do you have any siblings?
+What is your favorite sport?
+Are you married?
+What time do you wake up?
+How do you get to work?
+What is the weather like today?
+Do you like reading?
+Have you ever traveled abroad?
+What is your dream job?
+What do you do in your free time?
+Can you cook?
+What languages do you speak?
+How often do you exercise?
+Do you like chocolate?
+What is your favorite season?
+Do you have a car?
+What kind of music do you like?
+What time do you go to bed?
+Do you like cats or dogs?
+What is your favorite holiday?
+Have you ever seen snow?
+What is your favorite TV show?
+Can you ride a bike?
+Do you like traveling?
+What is your favorite drink?
+Where do you want to go on vacation?
+What is your favorite subject in school?
+Are you afraid of heights?
+Do you have a best friend?
+What is your favorite dessert?
+What do you usually eat for breakfast?
+Do you like watching movies?
+Can you sing?
+What is your favorite flower?
+Do you play any sports?
+What is your favorite city?
+How often do you go shopping?
+What is your favorite animal?
+Do you like swimming?
+What is your favorite fruit?
+Can you play chess?
+What time do you finish work?
+Do you like cooking?
+What is your favorite beach?
+Have you ever gone camping?
+Do you like ice cream?
+What is your favorite restaurant?
+Do you like history?
+What is your favorite song?
+Do you have a bicycle?
+Can you dance?
+What is your favorite fast food?
+Do you like rain?
+Have you ever been to the zoo?
+What is your favorite cartoon?
+Do you like hiking?
+Can you play the piano?
+What is your favorite car brand?
+Do you like to draw?
+What is your favorite app?
+Can you whistle?
+Do you like sushi?
+What is your favorite game?
+Have you ever flown in an airplane?
+What is your favorite shop?
+Do you like going to the gym?
+What is your favorite drink in the morning?
+Have you ever seen a sunrise?
+What is your favorite snack?
+Do you like tea?
+Can you run fast?
+What is your favorite pizza topping?
+Do you like puzzles?
+What is your favorite ice cream flavor?
+Can you play basketball?
+What is your favorite holiday destination?
+Do you like reading magazines?
+What is your favorite park?
+Can you speak another language?
